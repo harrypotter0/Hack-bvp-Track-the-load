@@ -15,8 +15,11 @@ The Android app that resides with each asset to be tracked. Once configured, thi
 ![Screenshot 1](pic1.png?raw=true "Optional Title 1")
 
 
+##################################################################################################################################
+
 ![Screenshot 1](pic2.png?raw=true "Optional Title 1")
 
+##################################################################################################################################
 
 ![Screenshot 1](pic3.png?raw=true "Optional Title 1")
 
