@@ -1,10 +1,15 @@
 ## PROBLEM ::
-Inability for a buisness-man to keep check to his/her goods and materials .
+1. Inability of vehicle to properly collct garbage from door to door. 
+2. Unproper marking of dumpin zone in colonies which forces people to throw away garbage on non specified location.
+
+# SOLUTION ::
+1. Building a monitoring system for garbage collector vehicle which includes monitoring through application and web application.
+2. Marking of dump zone for garbage collectors and manual marking of waste disposal sites in  localities for people.
 
 # TrackTheLoad :: 
-It's an app to track the load carrying vehicle or the transport material/goods from one place to another .
-# Alternative Use ==> 
 It can be used to keep check on the Garbage disposal on a proper dumping ground .
+# Alternative Use ==> 
+It's an app to track the load carrying vehicle or the transport material/goods from one place to another .
 
 # admin
 
@@ -21,6 +26,9 @@ The Android app that resides with each asset to be tracked. Once configured, thi
 * Google Android API   
 * Android Studio   
 * RESTFul APIs  
+
+# Futuristic scope::
+This tracking system can further be integrated with smart bins which will inform garbage collecting vehicles about empty and full bins and hence will save time of garbage collecting vehicles.
 
 # Screenshots ::
 
