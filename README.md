@@ -1,8 +1,9 @@
+
 ## PROBLEM ::
 1. Inability of vehicle to properly collct garbage from door to door. 
 2. Unproper marking of dumpin zone in colonies which forces people to throw away garbage on non specified location.
 
-# SOLUTION ::
+# SOLUTION (bugs are there )::
 1. Building a monitoring system for garbage collector vehicle which includes monitoring through application and web application.
 2. Marking of dump zone for garbage collectors and manual marking of waste disposal sites in  localities for people.
 
@@ -11,6 +12,7 @@ It can be used to keep check on the Garbage disposal on a proper dumping ground 
 # Alternative Use ==> 
 It's an app to track the load carrying vehicle or the transport material/goods from one place to another .
 
+[PPT is here ](http://slides.com/akashmishra-1/deck-1/fullscreen)
 # admin
 
 A web interface for administrators to see a quick overview of all the assets being tracked.
