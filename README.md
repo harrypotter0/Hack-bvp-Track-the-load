@@ -3,7 +3,7 @@
 1. Inability of vehicle to properly collct garbage from door to door. 
 2. Unproper marking of dumpin zone in colonies which forces people to throw away garbage on non specified location.
 
-# SOLUTION (bugs are there )::
+# SOLUTION (Under development[ errors in implementation ])::
 1. Building a monitoring system for garbage collector vehicle which includes monitoring through application and web application.
 2. Marking of dump zone for garbage collectors and manual marking of waste disposal sites in  localities for people.
 
